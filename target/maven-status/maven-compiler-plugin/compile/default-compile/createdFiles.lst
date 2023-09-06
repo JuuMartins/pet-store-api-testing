@@ -1,0 +1,7 @@
+entities\PetSold.class
+entities\PetSold$1.class
+entities\Pet.class
+entities\User.class
+entities\User$UserBuilder.class
+factory\UserFactory.class
+entities\PetsWithSameName.class
